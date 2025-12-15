@@ -32,10 +32,10 @@ A modern To-Do List web application built with Next.js, allowing users to effici
 ### Installation
 
 1. Clone the repository:  
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ganesh0770/todoList_webdev.git
 
 
-2.cd todoList-main
+2.cd todoList_webdev
 
 
 3.npm install
